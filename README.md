@@ -2,6 +2,7 @@
 
 A backend API for listing Github user’s public repositories, selected by user name.
 Lists also repositories branches and last commit sha. Handles 404 error when user is not found.
+Spring 3.5 and Java 21
 
 ## Example response:
 
